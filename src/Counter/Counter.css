@@ -1,0 +1,12 @@
+.btn-label{
+    background-color:white;
+    padding: 10px;
+}
+.Counter-outer button{
+    width: 100px;
+    margin: 20px;
+}
+.Counter-outer label{
+    width: 100px;
+    text-align: center;
+}
